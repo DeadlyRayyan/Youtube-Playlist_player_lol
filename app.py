@@ -47,3 +47,6 @@ elif link_length == 43:
     time.sleep(video_length)
 
     pyautogui.hotkey('shift', 'command', '3')
+
+else:
+    print('Playlist/Video not found')
