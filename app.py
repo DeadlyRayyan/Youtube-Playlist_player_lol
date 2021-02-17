@@ -1,4 +1,8 @@
-import pyautogui, pafy, time, os, requests
+import os
+import pafy
+import pyautogui
+import requests
+import time
 
 from setup import browser_location, youtube_api_key, link
 
